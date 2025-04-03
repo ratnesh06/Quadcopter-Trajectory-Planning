@@ -1,5 +1,3 @@
-% ***************** MEAM 620 QUADROTOR SIMULATION *****************
-
 close all;
 clear all;
 addpath('utils', 'trajectories');
